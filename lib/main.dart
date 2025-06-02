@@ -65,16 +65,9 @@ class _MyHomePageState extends State<MyHomePage> {
       // called again, and so nothing would appear to happen.
       _counter++;
     });
-    print("aaaaaaaaa");
-    print("aaaaaaaaa");
-    print("aaaaaaaaa");
-    print("aaaaaaaaa");
-    print("aaaaaaaaa");
-    print("aaaaaaaaa");
-    print("aaaaaaaaa");
-    print("aaaaaaaaa");
-    print("aaaaaaaaa");
-    print("aaaaaaaaa");
+    print("bbbbbbbbbbbbbccccccccccccccccc");
+    print("bbbbbbbbbbbbbccccccccccccccccc");
+    print("bbbbbbbbbbbbbccccccccccccccccc");
   }
 
   @override
